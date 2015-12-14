@@ -1,0 +1,23 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Plain file
+
+Method:
+    AES
+
+Initialization vector:
+    000102030405060708090a0b0c0d0e0f
+
+Data:
+    QmFzZTY0IGtvZGlyYW5qZSBrb3Jpc3RpIHNlIGRhIHNlIHByb2l6dm9sam5p
+    IG5peiBva3RldGEgcHJldm9yaSAKdSBuaXogY2l0bGppdmloIHpuYWtvdmEu
+    IEFsZ29yaXRtaSB6YSBrb2RpcmFuamUgaSBkZWtvZGlyYW5qZSBzdSAKdnJs
+    byBqZWRub3N0YXZuaS4gS29kaXJhbmplIHNlIG9iYXZsamEgdGFrbyBkYSBz
+    ZSB6YSBzdmFrYSB0cmkgCm9rdGV0YSBuYSB1bGF6dSBkb2JpanUgY2V0aXJp
+    IHpuYWthLCB0ai4gMjQgYml0YSBzZSBkaWplbGkgbmEgNCAKZGlqZWxhIHBv
+    IDYgYml0YSwgLi4uCgo=
+
+File name:
+    Datoteka.txt
+
+---END OS2 CRYPTO DATA---

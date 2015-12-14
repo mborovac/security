@@ -1,0 +1,41 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Envelope
+
+Method:
+    AES/RSA
+
+Initialization vector:
+    000102030405060708090a0b0c0d0e0f
+
+Modulus:
+    00b81e7fee07ca180f62c96a24ea3bde3e8ec0624cd6f8d92925237a9e5e
+    8fd2b33ab4727f162bca544f43a8c2ceb562b89de4fb12172cbf9d6f5415
+    69f0d3a59f78434652d62757357edd5d0b5e5dd49f270cbc8e1e4c322e6e
+    4aa9df37277950a474a33d2821901f2b54955fcc58dd3c25a58ffdc71ff8
+    0a6e9cbdda28e73a4b
+
+Private exponent:
+    496bc6b83118cf58d3194a58bf3b473df71d7959d33319732acbf10a2164
+    082d29a23e6615646a9c54c4e0ec5d8920080c07691d069932bc571d5990
+    74d2fbd9b50993a434b734119acb264e3909ba7652e9aa8fdd7789250a59
+    164507828b6db589f41cdad0fd4e673453f75d3cdcebcdf70274acdf13a4
+    f15bfe040b094a5f
+
+Envelope data:
+    aqlEMPnnM1dNDurNPKvWfvhraHis5eEvveSve/gbNsd6Bnek7nKAxLqJqD72
+    bobKijirpRAJTJ47JmzcV9JWZRcKyRGPPiNYKpWHm19TF5n6gehed10z7Ezh
+    xzGBTwmPN0/LarYXMP8++7B4DSTxO30RAWrjb7nPd9IOJIfOxmPkY+kn4Xno
+    GN6NgjNOrk2ZxAKaNmBzNmLhxN0Sqq4lcrInfuT7Q9rm6zO8/wowlFuxYBs9
+    xjfnyM4QJlZQIf2B08353fZOJanvER7X7wGh2FmQd2fjCeqyd+GnlYl0Yr8T
+    hbI/fZAz3G7eSe73+2xAWlusORnrqL4RxSiu9OLLNWaTZf338KhW0nxTnGBA
+    ej+hdbhf3dxl3x5oXPFhvVkH
+
+Envelope crypt key:
+    1dbfe7ad695ce58171a76a06847712f1dfce68d6939b9deacca388d545d5
+    313aaf16c7e37004252fda719204706a5e805e5c61f2ff97efad13faaf94
+    fc196b7584e3763680cfec9d4c080a8553916a10045c3b10888ccade381e
+    645320eb0ce8aa86958fb69d11da1daa3b624c5f4df39e45c90e652f9026
+    b44c46cd41b22528
+
+---END OS2 CRYPTO DATA---
